@@ -1,0 +1,70 @@
+Total words count: 6672
+Total character count: 39130
+The average word length: 4.72
+The average sentence length: 70.15
+A word distribution of all words ending in "ly":
+highly          : 1
+totally         : 4
+completely      : 1
+rapidly         : 2
+relentlessly    : 1
+previously      : 2
+only            : 3
+absolutely      : 1
+nearly          : 3
+massively       : 1
+fairly          : 1
+really          : 1
+exactly         : 1
+badly           : 1
+only            : 3
+proudly         : 1
+historically    : 1
+quickly         : 2
+substantially   : 4
+unlawfully      : 1
+totally         : 4
+strongly        : 2
+fully           : 2
+Early           : 1
+substantially   : 4
+actually        : 1
+substantially   : 4
+quickly         : 2
+dramatically    : 1
+nearly          : 3
+closely         : 1
+substantially   : 4
+family          : 3
+constantly      : 1
+finally         : 2
+surely          : 1
+recently        : 1
+family          : 3
+family          : 3
+especially      : 2
+nearly          : 3
+safely          : 1
+previously      : 2
+deadly          : 3
+viciously       : 1
+daily           : 1
+wildly          : 1
+critically      : 1
+deadly          : 3
+domestically    : 1
+illegally       : 1
+simply          : 1
+promptly        : 1
+rapidly         : 2
+fully           : 2
+strongly        : 2
+perfectly       : 1
+deadly          : 3
+actively        : 1
+totally         : 4
+totally         : 4
+finally         : 2
+especially      : 2
+only            : 3
+List of top 10 longest words:['congratulations', 'administrations', 'groundbreaking', 'administration', 'constitutional', 'constitutional', 'administration', 'administration', 'administration', 'administration']

@@ -29,7 +29,7 @@ with names_file3, names_file6:
    for word, count in sorted(character_count.items()):
        if word in alpha:
            print(f'{word:<2}{count}')
-           names_file6.write(f'{word:<2}{count}')
+           names_file6.write(f'{word:<2}{count}\n')
            word_count +=1
       
    if word_count != 26:
